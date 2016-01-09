@@ -1,0 +1,8 @@
+Creating Project and Committing using Git
+
+1. Get into the directory you will be working in
+2. $ git init
+3. Edit your files and then stage using the commands:
+4. $ git add <filename> OR git add . (adds all files in dir)
+5. Afterwards you may commit and leave a message
+6. $ git commit -m ”message here”
